@@ -9,3 +9,9 @@ contract, but this is reactionary: it would be better to know in advance who is
 at risk. 
 This report is prepared for the management to know more about their customers: 
 visualised clearly in a self-explanatory way.
+
+- *Recommendations*
+1) Increase tech support capacity for fibre optic customers.
+2) Lower tech tickets per customer to half.
+3) Increase sale of 1 and 2 year contracts.
+4) Yearly increase of automatic payments (bank transfer & credit cards)
